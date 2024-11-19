@@ -2,16 +2,12 @@ using UnityEngine;
 
 public class MiniMapFollow : MonoBehaviour
 {
-    [SerializeField]
-    private Transform player;
+    public Transform player; // הציפור
 
-    private void LateUpdate()
+    void LateUpdate()
     {
-        if (player != null)
-        {
-            Vector3 newPosition = player.position;
-            newPosition.z = transform.position.z; // שומר על גובה קבוע
-            transform.position = newPosition;
-        }
+        Vector3 newPosition = player.position;
+        newPosition.y = transform.position.y; // שמירה על גובה קבוע
+        transform.position = newPosition;
     }
 }
