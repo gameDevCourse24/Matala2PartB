@@ -3,6 +3,7 @@ using UnityEngine;
 public class CameraSizeFix : MonoBehaviour
 {
     private Camera cam;
+    public fixForOrthographicCam = 5f;
 
     void Start()
     {
@@ -19,7 +20,7 @@ public class CameraSizeFix : MonoBehaviour
         if (cam.orthographic)
         {
             // מציבים את ה-orthographicSize לפי ה-Aspect Ratio של המסך
-            cam.orthographicSize = 5f / aspectRatio;
+            cam.orthographicSize = fixForOrthographicCam / aspectRatio;
         }
     }
 }
