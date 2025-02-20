@@ -1,9 +1,4 @@
 # מטלה שבועית 2 חלק ב - מיני מפה
 
 במטלה זו בנינו דגם קטן של משחק שבו אתה מסתובב על המסך וישנה מיני מפה שמראה לך איפה אתה נמצא יחסית לעולם.  
-[קישור למשחק](https://gamedevrel2024shovhalyon.itch.io/flyingbird)  
-הלינטר עבד עד ששינינו משהו פה ברידמי. הודעת השגיאה של הלינטר היא  
-"The job was not started because recent account payments have failed or your spending limit needs to be increased. Please check the 'Billing & plans' section in your settings."  
-להבנתינו מג'יפיטי- חרגנו מגודל האחסון של הארגון, והוא רוצה שנשלם כסף - אבל אנחנו לא בטוחים, כי עובדה שאנחנו מצליחים לשנות דברים בריפוזיטורי עצמו...  
-אופציה שנייה - ישנה כמות מוגבלת של פעילויות שניתן לעשות בחודש וחרגנו ממנה - ולכן ישנם דברים שאנחנו מנועים מלעשות.  
-כך או כך הבעיה אינה בקוד - כי בcomit של לפני שבועיים הכל היה תקין, ולא שינינו שום דבר בקוד מאז.
+[קישור למשחק](https://gamedevrel2024shovhalyon.itch.io/flyingbird)
